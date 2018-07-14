@@ -55,8 +55,8 @@
 
 -----------------------------------------------------------------------------------------------
 ## Keys and Access Tokens
----------------------------------------------------------------------------------------------
-### In order to post to a Twitter account automatically, you have to get access keys for your account.
+
+#### In order to post to a Twitter account automatically, you have to get access keys for your account.
 -------------------------------------------------------------------------------------------------
 
 ###  After creating your new app, you would be redirected to its own page. If you weren’t, go to apps.twitter.com and click on your app's name.
@@ -85,7 +85,7 @@
 
 ## Objectives  Achived
 
-## - [X] Get the access token , Client secret and Client Id of the Twitter Api For the developers.
+## - [x] Get the access token , Client secret and Client Id of the Twitter Api For the developers.
 
 
 
