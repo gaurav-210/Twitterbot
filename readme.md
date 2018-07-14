@@ -39,16 +39,55 @@
 ### Go to apps.twitter.com and click on 'Create New App ' button
 
 
-![Image of create new app](start.PNG)
+![Image of create new app](images/start.PNG)
 
 -----------------------------------------------------------------------------------------------
 ### * Fill out the details of the form correctly
 
-![Image of create new app](start1.PNG)
+![Image of create new app](images/start1.PNG)
 
 -----------------------------------------------------------------------------------------------
 
 ### * Read the developer agreement section, and check the box at the bottom if you agree. Then click on 
-the ‘Create your Twitter application’ button
+### the ‘Create your Twitter application’ button
 
-![Image of create new app](start2.PNG)
+![Image of create new app](images/start2.PNG)
+
+-----------------------------------------------------------------------------------------------
+## Keys and Access Tokens
+---------------------------------------------------------------------------------------------
+### In order to post to a Twitter account automatically, you have to get access keys for your account.
+-------------------------------------------------------------------------------------------------
+
+###  After creating your new app, you would be redirected to its own page. If you weren’t, go to apps.twitter.com and click on your app's name.
+
+![Image of create new app](images/appname.PNG)
+
+----------------------------------------------------------------------------------------------
+### On the app’s page, click on the ‘Keys and Access Tokens’ tab
+![Image of create new app](images/key.PNG)
+
+---------------------------------------------------------------------------------------------
+### At the bottom of this page, click on the ‘Create my access token’ button.
+![Image of create new app](images/click.PNG)
+
+------------------------------------------------------------------------------------------------
+### Make sure you make note of the following four keys, as you will need these later. 
+
+![Image of create new app](images/Key1.PNG)
+
+-------------------------------------------------------------------------------------
+
+![Image of create new app](images/token.PNG)
+
+---------------------------------------------------------------------------------
+
+
+## Objectives  Achived
+
+## - [X] Get the access token , Client secret and Client Id of the Twitter Api For the developers.
+
+
+
+
+                                          Thankyou                                                
