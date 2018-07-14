@@ -33,3 +33,11 @@
 ### The first step is creating a Twitter account https://twitter.com/signup. Once this is done the next step is to create a new application.
 
 ----------------------------------------------------------------------------------------------------
+
+## Create a Twitter App
+--------------------------------------------------------------------------------------------------
+### Go to apps.twitter.com and click on 'Create New App ' button
+### * Fill out the details of the form correctly
+### * Read the developer agreement section, and check the box at the bottom if you agree. Then click on the ‘Create your Twitter application’ button
+
+![Image of create new app](start.png)
