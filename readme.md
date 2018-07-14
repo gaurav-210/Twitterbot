@@ -85,7 +85,7 @@
 
 ## Objectives  Achived
 
-## - [x] Get the access token , Client secret and Client Id of the Twitter Api For the developers.
+- [x] Get the access token , Client secret and Client Id of the Twitter Api For the developers.
 
 
 
