@@ -69,12 +69,13 @@
 
 ---------------------------------------------------------------------------------------------
 ### At the bottom of this page, click on the ‘Create my access token’ button.
+
 ![Image of create new app](images/click.PNG)
 
 ------------------------------------------------------------------------------------------------
 ### Make sure you make note of the following four keys, as you will need these later. 
 
-![Image of create new app](images/Key1.PNG)
+![Image of create new app](images/keytok.PNG)
 
 -------------------------------------------------------------------------------------
 
