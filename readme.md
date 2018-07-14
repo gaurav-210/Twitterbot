@@ -46,4 +46,9 @@
 
 ![Image of create new app](start1.PNG)
 
-### * Read the developer agreement section, and check the box at the bottom if you agree. Then click on the ‘Create your Twitter application’ button
+-----------------------------------------------------------------------------------------------
+
+### * Read the developer agreement section, and check the box at the bottom if you agree. Then click on 
+the ‘Create your Twitter application’ button
+
+![Image of create new app](start2.PNG)
